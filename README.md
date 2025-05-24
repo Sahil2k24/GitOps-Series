@@ -1,8 +1,6 @@
-Here’s an updated **Table of Contents** for your GitHub `README.md` file that includes **titles, short summaries, and content descriptions** for all four posts:
-
----
-
 # 🚀 GitOps with Argo CD – Projects and Learning Resources
+
+![image](https://github.com/user-attachments/assets/e207c22e-b88d-43a2-b789-0bd7b053df37)
 
 Welcome to my GitOps journey using Argo CD. This repository captures my learnings, practical implementations, and key takeaways from working with Kubernetes deployments at scale. Below is a breakdown of the key posts, each focusing on a different aspect of GitOps and Argo CD.
 
